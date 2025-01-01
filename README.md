@@ -1,4 +1,4 @@
-# AbioticAraMicrobe
+# ModelClimateMicro
 
 This repository includes raw data (OTU tables, taxonomy, sequences of OTUs, and metadata) and all scripts used to generate figures for the manuscript:  
 **"Microbial communities living inside plant leaves or on the leaf surface are differently shaped by environmental cues"**
