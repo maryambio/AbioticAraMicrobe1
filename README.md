@@ -5,6 +5,10 @@ This repository includes raw data (OTU tables, taxonomy, sequences of OTUs, and 
 
 The manuscript is published in [*ISME Communications*](https://doi.org/10.1093/ismeco/ycae103).
 
+
+Due to file size limitations in github, the complete version of this project, including all datasets, is stored at the following path. If you are interested, you can access it here:
+Path: https://gitlab.plantmicrobe.de/maryam_mahmoudi/AbioticAraMicrobe
+
 ---
 
 <img src="Final_FigsAndTables/SVG_Figures/Fig1_ExperimentalSetup.png" alt="Experimental Setup" width="800"/>
